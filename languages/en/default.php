@@ -14,7 +14,7 @@
 /**
  * Buttons
  */
-$GLOBALS['TL_LANG']['MSC']['buttonLabel']['add_to_wishlist']        = 'Add To Wish list';
+$GLOBALS['TL_LANG']['MSC']['buttonLabel']['add_to_wishlist']        = 'Add To Wish List';
 
 /**
  * Miscellaneous
